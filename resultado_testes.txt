@@ -1,0 +1,26 @@
+test_dados_iniciais_persistencia_e_inicializacao_unica (test_dados.PersistenciaTest.test_dados_iniciais_persistencia_e_inicializacao_unica) ... ok
+test_modulos_do_produto_usam_apenas_biblioteca_padrao_sem_integracoes (test_dados.PersistenciaTest.test_modulos_do_produto_usam_apenas_biblioteca_padrao_sem_integracoes) ... ok
+test_bairro_duplicado_bloqueado (test_dados.RegrasTest.test_bairro_duplicado_bloqueado) ... ok
+test_cadastro_e_associacao_ao_bairro (test_dados.RegrasTest.test_cadastro_e_associacao_ao_bairro) ... ok
+test_comunicados_invalidos_nao_gravam_historico (test_dados.RegrasTest.test_comunicados_invalidos_nao_gravam_historico) ... ok
+test_contato_sem_nome_ou_bairro_bloqueado (test_dados.RegrasTest.test_contato_sem_nome_ou_bairro_bloqueado) ... ok
+test_edicao_muda_bairro_e_situacao (test_dados.RegrasTest.test_edicao_muda_bairro_e_situacao) ... ok
+test_falha_no_registro_desfaz_operacao_inteira (test_dados.RegrasTest.test_falha_no_registro_desfaz_operacao_inteira) ... ok
+test_historico_preservado_apos_edicao_e_exclusao (test_dados.RegrasTest.test_historico_preservado_apos_edicao_e_exclusao) ... ok
+test_identificador_duplicado_e_numero_real_bloqueados (test_dados.RegrasTest.test_identificador_duplicado_e_numero_real_bloqueados) ... ok
+test_mudanca_entre_previa_e_confirmacao_exige_nova_conferencia (test_dados.RegrasTest.test_mudanca_entre_previa_e_confirmacao_exige_nova_conferencia) ... ok
+test_multiplos_bairros_sem_repetir_destinatarios (test_dados.RegrasTest.test_multiplos_bairros_sem_repetir_destinatarios) ... ok
+test_previa_nao_grava (test_dados.RegrasTest.test_previa_nao_grava) ... ok
+test_repeticao_da_confirmacao_bloqueada (test_dados.RegrasTest.test_repeticao_da_confirmacao_bloqueada) ... ok
+test_simulacao_e_historico_sem_rede (test_dados.RegrasTest.test_simulacao_e_historico_sem_rede) ... ok
+test_um_bairro_exclui_inativos (test_dados.RegrasTest.test_um_bairro_exclui_inativos) ... ok
+test_adicionar_bairro_atualiza_cadastro_e_selecao (test_interface.InterfaceTest.test_adicionar_bairro_atualiza_cadastro_e_selecao) ... ok
+test_botoes_visiveis_no_tamanho_minimo_da_janela (test_interface.InterfaceTest.test_botoes_visiveis_no_tamanho_minimo_da_janela) ... ok
+test_cadastro_edicao_e_exclusao_pela_interface (test_interface.InterfaceTest.test_cadastro_edicao_e_exclusao_pela_interface) ... ok
+test_fluxo_completo_com_confirmacao_e_historico (test_interface.InterfaceTest.test_fluxo_completo_com_confirmacao_e_historico) ... ok
+test_voltar_da_conferencia_preserva_rascunho_sem_registrar (test_interface.InterfaceTest.test_voltar_da_conferencia_preserva_rascunho_sem_registrar) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.970s
+
+OK
